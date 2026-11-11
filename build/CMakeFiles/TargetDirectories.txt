@@ -1,5 +1,0 @@
-/Users/olehsavchuk/Documents/SWE/CumulantCov/build/CMakeFiles/rebuild_cache.dir
-/Users/olehsavchuk/Documents/SWE/CumulantCov/build/CMakeFiles/edit_cache.dir
-/Users/olehsavchuk/Documents/SWE/CumulantCov/build/CMakeFiles/test.dir
-/Users/olehsavchuk/Documents/SWE/CumulantCov/build/CMakeFiles/cumulant_demo.dir
-/Users/olehsavchuk/Documents/SWE/CumulantCov/build/CMakeFiles/test_cumulant_cov.dir
